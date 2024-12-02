@@ -12,12 +12,12 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(0, 0, 0), -- Fundo preto
-            Second = Color3.fromRGB(25, 25, 25), -- Segundo plano em cinza escuro
-            Stroke = Color3.fromRGB(255, 0,0 ), -- Borda azul brilhante
-            Divider = Color3.fromRGB(255, 0, 0), -- Divisor em cinza escuro
-            Text = Color3.fromRGB(255, 0, 0)  -- Texto azul brilhante 
-            TextDark = Color3.fromRGB(150, 150, 150) -- Texto secundário cinza
+			Main = Color3.fromRGB(0, 170, 255), -- Fundo preto
+            Second = Color3.fromRGB(255, 255, 255), -- Segundo plano em cinza escuro
+            Stroke = Color3.fromRGB(255, 255,255 ), -- Borda azul brilhante
+            Divider = Color3.fromRGB(255, 255, 255), -- Divisor em cinza escuro
+            Text = Color3.fromRGB(255, 255, 255)  -- Texto azul brilhante 
+            TextDark = Color3.fromRGB(255, 255, 255) -- Texto secundário cinza
 		}
 	},
 	SelectedTheme = "Default",
